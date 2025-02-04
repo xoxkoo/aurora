@@ -12,6 +12,6 @@
 	</h1>
 	<p class="mb-12 text-xl leading-relaxed text-gray-300">
 		Minimal, beautiful habit tracking for macOS with focus timer and quick menu bar access.
-		<span class="mt-4 block text-sm text-gray-400"> Start building better habits with Aurora </span>
+		<!-- <span class="mt-4 block text-sm text-gray-400"> Start building better habits with Aurora </span> -->
 	</p>
 </template>

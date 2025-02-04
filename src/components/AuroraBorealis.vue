@@ -1,22 +1,13 @@
 <template>
-	<div class="absolute inset-0 overflow-hidden">
-		<svg class="h-full w-full opacity-30" viewBox="0 0 1000 1000" preserveAspectRatio="none">
-			<defs>
-				<radialGradient id="aurora1" cx="50%" cy="50%" r="50%">
-					<stop offset="0%" stop-color="#4C6EF5" stop-opacity="0.3" />
-					<stop offset="100%" stop-color="#4C6EF5" stop-opacity="0" />
-				</radialGradient>
-				<radialGradient id="aurora2" cx="50%" cy="50%" r="50%">
-					<stop offset="0%" stop-color="#9333EA" stop-opacity="0.3" />
-					<stop offset="100%" stop-color="#9333EA" stop-opacity="0" />
-				</radialGradient>
-			</defs>
-			<g class="animate-float-slow">
-				<path d="M0,1000 C300,800 400,600 1000,800 L1000,1000 L0,1000 Z" fill="url(#aurora1)" />
-			</g>
-			<g class="animate-float-slower">
-				<path d="M0,1000 C500,900 800,700 1000,900 L1000,1000 L0,1000 Z" fill="url(#aurora2)" />
-			</g>
-		</svg>
+	<div className="fixed inset-0">
+		<div
+			class="absolute inset-0 bg-gradient-to-tr from-purple-900/20 via-blue-900/20 to-purple-900/20"
+		/>
+		<div
+			class="absolute left-1/4 top-0 h-96 w-96 -translate-x-1/2 rounded-full bg-purple-500/10 blur-3xl"
+		/>
+		<div
+			class="absolute bottom-0 right-1/4 h-96 w-96 translate-x-1/2 rounded-full bg-blue-500/10 blur-3xl"
+		/>
 	</div>
 </template>

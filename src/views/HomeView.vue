@@ -1,6 +1,6 @@
 <template>
 	<div class="relative min-h-screen bg-black text-white">
-		<Aurora />
+		<AuroraBorealis />
 		<TheHeader />
 
 		<main class="relative">
@@ -10,6 +10,16 @@
 					<div class="flex flex-col justify-center space-y-4 sm:flex-row sm:space-x-6 sm:space-y-0">
 						<DownloadButton @downloadApp="downloadApp" />
 						<!-- <DemoButton /> -->
+					</div>
+
+					<div
+						class="mt-20 flex items-center gap-5 rounded-xl bg-purple-600/15 p-5 text-lg text-gray-300"
+					>
+						<i>🔒</i>
+						<p class="text-left">
+							<span class="font-semibold text-purple-400">100% Privacy-focused:</span> No login
+							required, no payment needed. All your data stays securely on your device.
+						</p>
 					</div>
 				</div>
 			</div>
@@ -43,7 +53,6 @@
 
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted } from 'vue'
-import Aurora from '@/components/AuroraBorealis.vue'
 import FeatureCard from '@/components/FeatureCard.vue'
 import TheHeader from '@/components/TheHeader.vue'
 import TheFooter from '@/components/TheFooter.vue'
@@ -53,6 +62,7 @@ import DownloadButton from '@/components/DownloadButton.vue'
 // import DemoButton from '@/components/DemoButton.vue'
 import AppPreview from '@/components/AppPreview.vue'
 import TheHero from '@/components/TheHero.vue'
+import AuroraBorealis from '@/components/AuroraBorealis.vue'
 
 const scrolled = ref(false)
 
