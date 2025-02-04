@@ -9,7 +9,7 @@
 					<TheHero />
 					<div class="flex flex-col justify-center space-y-4 sm:flex-row sm:space-x-6 sm:space-y-0">
 						<DownloadButton @downloadApp="downloadApp" />
-						<DemoButton />
+						<!-- <DemoButton /> -->
 					</div>
 				</div>
 			</div>
@@ -50,7 +50,7 @@ import TheFooter from '@/components/TheFooter.vue'
 import BuyMeCoffee from '@/components/BuyMeCoffee.vue'
 import FixedButton from '@/components/FixedButton.vue'
 import DownloadButton from '@/components/DownloadButton.vue'
-import DemoButton from '@/components/DemoButton.vue'
+// import DemoButton from '@/components/DemoButton.vue'
 import AppPreview from '@/components/AppPreview.vue'
 import TheHero from '@/components/TheHero.vue'
 
@@ -80,9 +80,8 @@ const features = [
 			'Built-in timer with customizable durations to help you stay focused on your habits.'
 	},
 	{
-		title: 'Beautiful Design',
-		description:
-			'Clean, minimal interface with aurora-inspired visuals for a delightful user experience.'
+		title: 'Track your progress',
+		description: 'As you progress through with habit, your aurora will glow more and more.'
 	}
 ]
 

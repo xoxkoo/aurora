@@ -19,7 +19,7 @@
 				</div>
 				<nav class="hidden items-center space-x-8 md:flex">
 					<a href="#features" class="text-gray-300 transition-colors hover:text-white">Features</a>
-					<a href="#" class="text-gray-300 transition-colors hover:text-white">Demo</a>
+					<!-- <a href="#" class="text-gray-300 transition-colors hover:text-white">Demo</a> -->
 					<a
 						href="https://github.com/xoxkoo/aurora/releases/latest"
 						target="_blank"
