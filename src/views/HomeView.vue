@@ -87,10 +87,7 @@ const features = [
 ]
 
 const downloadApp = () => {
-	window.open(
-		'https://github.com/xoxkoo/aurora/releases/download/v0.0.1/AuroraHabit.app.zip',
-		'_blank'
-	)
+	window.open('https://github.com/xoxkoo/aurora/releases/download/v0.0.2/Aurora.dmg', '_blank')
 }
 </script>
 
