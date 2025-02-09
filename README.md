@@ -1,6 +1,6 @@
 # Aurora - Build Better Habits
-
-![Aurora App](./assets/images/app-preview.png)
+<img width="591" alt="Screenshot 2025-02-02 at 6 12 39 pm" src="https://github.com/user-attachments/assets/7d19f42e-f77b-4f42-a5fc-36335cf57fa2" />
+<img width="285" alt="Screenshot 2025-02-02 at 6 13 54 pm" src="https://github.com/user-attachments/assets/ce509aa1-d715-4105-91c0-cde504b377a0" />
 
 Aurora is a minimal, beautiful habit tracking app for macOS with focus timer and quick menu bar access.
 
