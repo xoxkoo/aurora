@@ -1,39 +1,44 @@
-# .
+# Aurora - Build Better Habits
 
-This template should help get you started developing with Vue 3 in Vite.
+![Aurora App](./assets/images/app-preview.png)
 
-## Recommended IDE Setup
+Aurora is a minimal, beautiful habit tracking app for macOS with focus timer and quick menu bar access.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+🌐 [Visit Website](https://aurora-habits.com) | 📥 [Download Latest Release](https://github.com/xoxkoo/aurora/releases/latest/download/Aurora.dmg)
 
-## Type Support for `.vue` Imports in TS
+## Features
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+- **Menu Bar Quick Access**: Start your timer and track habits directly from the menu bar without opening the main app
+- **Focus Timer**: Built-in timer with customizable durations to help you stay focused on your habits
+- **Beautiful Design**: Clean, minimal interface with aurora-inspired visuals for a delightful user experience
+- **Privacy First**: No login required, no payment needed. All your data stays securely on your device.
 
-## Customize configuration
+## Installation
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+1. Download the latest version of Aurora [here](https://github.com/xoxkoo/aurora/releases/latest/download/Aurora.dmg)
+2. Open the downloaded .dmg file
+3. Drag Aurora to your Applications folder
+4. Open Aurora from your Applications folder
 
-## Project Setup
+## System Requirements
 
-```sh
-npm install
-```
+- macOS 10.15 (Catalina) or later
+- 50MB of available disk space
 
-### Compile and Hot-Reload for Development
+## Privacy
 
-```sh
-npm run dev
-```
+Aurora is designed with privacy in mind:
+- All data is stored locally on your device
+- No account creation required
+- No analytics or tracking
+- No internet connection required
 
-### Type-Check, Compile and Minify for Production
+## Support
 
-```sh
-npm run build
-```
+If you enjoy Aurora and want to support its development:
 
-### Lint with [ESLint](https://eslint.org/)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aurora)
 
-```sh
-npm run lint
-```
+---
+
+Made with ♥️ for better habits
