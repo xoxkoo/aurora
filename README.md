@@ -1,10 +1,11 @@
 # Aurora - Build Better Habits
-<img width="591" alt="Screenshot 2025-02-02 at 6 12 39 pm" src="https://github.com/user-attachments/assets/7d19f42e-f77b-4f42-a5fc-36335cf57fa2" />
-<img width="285" alt="Screenshot 2025-02-02 at 6 13 54 pm" src="https://github.com/user-attachments/assets/ce509aa1-d715-4105-91c0-cde504b377a0" />
+
+<img width="1104" alt="Screenshot 2025-02-09 at 4 02 26 pm" src="https://github.com/user-attachments/assets/63ca09b4-bc9a-4a94-85c2-5b5c11be3383" />
+
 
 Aurora is a minimal, beautiful habit tracking app for macOS with focus timer and quick menu bar access.
 
-🌐 [Visit Website](https://aurora-habits.com) | 📥 [Download Latest Release](https://github.com/xoxkoo/aurora/releases/latest/download/Aurora.dmg)
+🌐 [Visit Website](https://xoxkoo.github.io/aurora/) | 📥 [Download Latest Release](https://github.com/xoxkoo/aurora/releases/download/v0.0.2/Aurora.dmg)
 
 ## Features
 
@@ -15,7 +16,7 @@ Aurora is a minimal, beautiful habit tracking app for macOS with focus timer and
 
 ## Installation
 
-1. Download the latest version of Aurora [here](https://github.com/xoxkoo/aurora/releases/latest/download/Aurora.dmg)
+1. Download the latest version of Aurora [here](https://github.com/xoxkoo/aurora/releases/download/v0.0.2/Aurora.dmg)
 2. Open the downloaded .dmg file
 3. Drag Aurora to your Applications folder
 4. Open Aurora from your Applications folder
@@ -37,7 +38,7 @@ Aurora is designed with privacy in mind:
 
 If you enjoy Aurora and want to support its development:
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/aurora)
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anton_durcak)
 
 ---
 
