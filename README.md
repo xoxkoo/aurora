@@ -5,7 +5,7 @@
 
 Aurora is a minimal, beautiful habit tracking app for macOS with focus timer and quick menu bar access.
 
-🌐 [Visit Website](https://xoxkoo.github.io/aurora/) | 📥 [Download Latest Release](https://github.com/xoxkoo/aurora/releases/download/v0.0.2/Aurora.dmg)
+🌐 [Visit Website](https://xoxkoo.github.io/aurora/) | 📥 [Download Latest Release](https://github.com/xoxkoo/aurora/releases/download/latest/Aurora.dmg)
 
 ## Features
 
@@ -16,7 +16,7 @@ Aurora is a minimal, beautiful habit tracking app for macOS with focus timer and
 
 ## Installation
 
-1. Download the latest version of Aurora [here](https://github.com/xoxkoo/aurora/releases/download/v0.0.2/Aurora.dmg)
+1. Download the latest version of Aurora [here](https://github.com/xoxkoo/aurora/releases/download/latest/Aurora.dmg)
 2. Open the downloaded .dmg file
 3. Drag Aurora to your Applications folder
 4. Open Aurora from your Applications folder
