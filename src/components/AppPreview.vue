@@ -1,6 +1,13 @@
 <!-- App Preview Section -->
 <template>
 	<div class="container mx-auto px-6 py-20">
+		<img
+			src="../assets/images/AppPreview.gif"
+			alt="Loading"
+			class="mx-auto mb-20 rounded-3xl"
+			width="500"
+		/>
+
 		<div class="relative mx-auto max-w-5xl">
 			<div
 				class="absolute inset-0 bg-gradient-to-r from-blue-500/30 to-purple-500/30 blur-3xl"

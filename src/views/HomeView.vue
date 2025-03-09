@@ -96,7 +96,7 @@ const features = [
 ]
 
 const downloadApp = () => {
-	window.open('https://github.com/xoxkoo/aurora/releases/download/v0.0.2/Aurora.dmg', '_blank')
+	window.open('https://github.com/xoxkoo/aurora/releases/download/latest/Aurora.dmg', '_blank')
 }
 </script>
 
